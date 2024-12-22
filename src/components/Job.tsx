@@ -7,7 +7,7 @@ const Job = ({list}:TJopProps) => {
     const dispatch = useDispatch()
 
     return (
-        <div  className='flex flex-col md:flex-row justify-between md:items-center mb-16 md:mb-6 space-y-8 bg-white p-6 shadow-lg rounded'>
+        <div  className='flex flex-col md:flex-row justify-between md:items-center mb-16 md:mb-6 space-y-8 bg-white p-6 shadow-lg rounded-lg'>
         <div className='flex flex-col md:flex-row gap-4 md:gap-6  md:items-center'>
             <div className='-mt-16 md:mt-0'>
             <img src={list.logo} alt="company logo" />
