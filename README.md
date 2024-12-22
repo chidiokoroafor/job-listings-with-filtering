@@ -11,9 +11,9 @@ Users should be able to:
 - Filter job listings based on the categories
 
 ### Links
-<!-- 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com) -->
+
+- Solution: [Solution here](https://www.frontendmentor.io/solutions/job-listings-with-filtering---react-typescript-tailwind-css-H5eSw7TQHO)
+- Live Site: [Live site here](https://job-listings-with-filtering-lilac.vercel.app/)
 
 ### Built with
 
