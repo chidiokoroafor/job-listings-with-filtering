@@ -1,9 +1,10 @@
 import { useDispatch, useSelector } from "react-redux"
 import { removeFilter,clearFilters } from '../features/listing/listingSlice'
 import removeIcon from '../assets/images/icon-remove.svg'
+import { TStore } from "../utils/types"
 
 const FilterPannel = () => {
-    const { filters } = useSelector((store) => store.listing)
+    const { filters } = useSelector((store:TStore) => store.listing)
     const dispatch = useDispatch()
 
 

@@ -1,7 +1,8 @@
 import { createSlice } from '@reduxjs/toolkit';
 import listings from '../../data.json'
+import { TListingState } from '../../utils/types';
 
-const initialState = {
+const initialState:TListingState = {
     allListing: listings,
     filteredListing: [],
     filters:[]

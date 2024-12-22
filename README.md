@@ -26,7 +26,7 @@ Users should be able to:
 - Redux-toolkit
 
 ## Author
-<!-- 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername) -->
+
+<!-- - Website - [Add your name here](https://www.your-site.com) -->
+- Frontend Mentor - [@chidiokoroafor](https://www.frontendmentor.io/profile/chidiokoroafor)
+- Twitter - [@chidisunday2](https://x.com/chidisunday2)
